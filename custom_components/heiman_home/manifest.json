@@ -1,7 +1,6 @@
 {
   "domain": "heiman_home",
   "name": "Heiman Home",
-  "version": "1.0.0",
   "codeowners": ["@heimanhome"],
   "config_flow": true,
   "dependencies": ["application_credentials"],
@@ -11,5 +10,6 @@
   "issue_tracker": "https://github.com/ha-china/heiman_home/issues",
   "loggers": ["heimanconnect"],
   "quality_scale": "bronze",
-  "requirements": ["heiman-connect==1.0.16"]
+  "requirements": ["heiman-connect==1.0.16"],
+  "version": "1.0.0"
 }
