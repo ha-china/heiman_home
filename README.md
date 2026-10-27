@@ -65,7 +65,7 @@ The integration provides secure OAuth2 authentication, automatic device discover
 
 ### HACS (Recommended)
 1. Click the icon and install Heiman Home:
-[![Install Heiman Home](https://community-assets.home-assistant.io/original/4X/8/c/d/8cd1e59d88b00047b1b5ef5e19611794f3699618.png)](https://my.home-assistant.io/redirect/hacs_repository/?owner=heimanhome&repository=heiman_home&category=integration)
+[![Install Heiman Home](https://community-assets.home-assistant.io/original/4X/8/c/d/8cd1e59d88b00047b1b5ef5e19611794f3699618.png)](https://my.home-assistant.io/redirect/hacs_repository/?owner=ha-china&repository=heiman_home&category=integration)
 
 2. Restart Home Assistant
 
@@ -139,7 +139,7 @@ Before opening an issue, please include as much information as possible:
 Please avoid sharing sensitive information such as passwords, tokens, or account credentials.
 
 
-[GitHub Issues Page](https://github.com/heimanhome/heiman_home/issues)
+[GitHub Issues Page](https://github.com/ha-china/heiman_home/issues)
 
 
 ---
